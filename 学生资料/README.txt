@@ -1,0 +1,11 @@
+LM386库原件制作
+http://ecee.colorado.edu/~mathys/ecen1400/Software/CreateLM386.html
+半对数坐标
+http://wenku.baidu.com/link?url=BJoHeOvxZaRwnoX9JAhHubmPJ5yQxqgpb9fh7cgan2FWEfZW1oraTzITSppoihScAEbRgmMw7DoGqsSgpQ7XQeW_AiydXbqnof7QfEvkSuy
+什么是功放的输入灵敏度
+http://wenku.baidu.com/link?url=xcyAFCkRh_9UGLVhmonQN7C1GvpBYdh_WS7q_WPO3Z0GjTHJSfpsOz2jyELOzJCFBU8YSEt275PhACyPhl4Hnv2CpwMOzsK2h5YgBlF8QDi
+使用Multisim进行电路频率特性分析
+http://wenku.baidu.com/link?url=XLzXqYgB5vOmuSwNwmzALqJ-09upyOmo3gSGHigvFInbu-Z9Q12y7_QInaaz8Q9pIsousrEi6EbQPSx-v5KgboORM2WaCQXquwaWo0lPicW
+
+LM386 原理
+https://www.chip37.com/article/1.html
